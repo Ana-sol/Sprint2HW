@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Sprint2HW/static/css/main.a65704dd.css",
-    "main.js": "/Sprint2HW/static/js/main.1b9fbee5.js",
-    "static/js/787.66cb4309.chunk.js": "/Sprint2HW/static/js/787.66cb4309.chunk.js",
-    "static/media/orig.webp": "/Sprint2HW/static/media/orig.e45a61cd69e73f27db0a.webp",
-    "static/media/avatar.png": "/Sprint2HW/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/Sprint2HW/index.html",
-    "main.a65704dd.css.map": "/Sprint2HW/static/css/main.a65704dd.css.map",
-    "main.1b9fbee5.js.map": "/Sprint2HW/static/js/main.1b9fbee5.js.map",
-    "787.66cb4309.chunk.js.map": "/Sprint2HW/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/Ana-sol/Sprint2HW.git/static/css/main.a65704dd.css",
+    "main.js": "/Ana-sol/Sprint2HW.git/static/js/main.aa39ffa8.js",
+    "static/js/787.66cb4309.chunk.js": "/Ana-sol/Sprint2HW.git/static/js/787.66cb4309.chunk.js",
+    "static/media/orig.webp": "/Ana-sol/Sprint2HW.git/static/media/orig.e45a61cd69e73f27db0a.webp",
+    "static/media/avatar.png": "/Ana-sol/Sprint2HW.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/Ana-sol/Sprint2HW.git/index.html",
+    "main.a65704dd.css.map": "/Ana-sol/Sprint2HW.git/static/css/main.a65704dd.css.map",
+    "main.aa39ffa8.js.map": "/Ana-sol/Sprint2HW.git/static/js/main.aa39ffa8.js.map",
+    "787.66cb4309.chunk.js.map": "/Ana-sol/Sprint2HW.git/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a65704dd.css",
-    "static/js/main.1b9fbee5.js"
+    "static/js/main.aa39ffa8.js"
   ]
 }
