@@ -1,11 +1,14 @@
+.spanBlock {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
 
 .span {
-    display: inline-block;
-    height: 31px;
-    padding-top: 50px;
-    cursor: pointer;
-    color: cadetblue;
-
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #0080FF;
 }
 
 .input {
@@ -18,7 +21,6 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    position: relative;
 }
 
 .pen {
